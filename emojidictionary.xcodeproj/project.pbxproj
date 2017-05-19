@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3710873A1ECE363C00A21229 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371087391ECE363C00A21229 /* ViewController.swift */; };
+		376620EB1ECF6B2F005D5EE8 /* DefintionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376620EA1ECF6B2E005D5EE8 /* DefintionViewController.swift */; };
 		3790F26C1ECE29E00027EDE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3790F26B1ECE29E00027EDE9 /* AppDelegate.swift */; };
 		3790F2711ECE29E10027EDE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3790F26F1ECE29E10027EDE9 /* Main.storyboard */; };
 		3790F2731ECE29E10027EDE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3790F2721ECE29E10027EDE9 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		371087391ECE363C00A21229 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		376620EA1ECF6B2E005D5EE8 /* DefintionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DefintionViewController.swift; path = ../DefintionViewController.swift; sourceTree = "<group>"; };
 		3790F2681ECE29E00027EDE9 /* emojidictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emojidictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3790F26B1ECE29E00027EDE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3790F2701ECE29E10027EDE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		3790F26A1ECE29E00027EDE9 /* emojidictionary */ = {
 			isa = PBXGroup;
 			children = (
+				376620EA1ECF6B2E005D5EE8 /* DefintionViewController.swift */,
 				371087391ECE363C00A21229 /* ViewController.swift */,
 				3790F26B1ECE29E00027EDE9 /* AppDelegate.swift */,
 				3790F26F1ECE29E10027EDE9 /* Main.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3710873A1ECE363C00A21229 /* ViewController.swift in Sources */,
+				376620EB1ECF6B2F005D5EE8 /* DefintionViewController.swift in Sources */,
 				3790F26C1ECE29E00027EDE9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
